@@ -1,4 +1,0 @@
-input chars = 
-we were all in the train together, bound from read"
-predicted chars = 
-en s and and anderene masteress and ans atteren.  his was ar an the sand co the tound he has doun th"
