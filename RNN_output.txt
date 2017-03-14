@@ -1,0 +1,15 @@
+-------------------
+input chars = 
+ldom heard him mention her under any other name. i"
+predicted chars = 
+ng ond the thes and and the tere the  as ard cand che the has and cat in the the has and cat ins on "
+-------------------
+input chars = 
+ntlemans chambers in the temple. it was a delicate"
+predicted chars = 
+ the hes and cout ing or the cass an the  ared the  and w the cacad i tho h s wared, bhe tho the has"
+-------------------
+input chars = 
+we were all in the train together, bound from read"
+predicted chars = 
+ the  and the tered, the sof the tere the  of has ind ar tit ond the the has and the the he has coun"
