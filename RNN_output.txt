@@ -2,14 +2,14 @@
 input chars = 
 ldom heard him mention her under any other name. i"
 predicted chars = 
-ng ond the thes and and the tere the  as ard cand che the has and cat in the the has and cat ins on "
+t is a see in the state of the state of the state of the stance of the state of the state of the sta"
 -------------------
 input chars = 
 ntlemans chambers in the temple. it was a delicate"
 predicted chars = 
- the hes and cout ing or the cass an the  ared the  and w the cacad i tho h s wared, bhe tho the has"
+ your strong of the prossoust that i had not inde so that i had not inde so that it was a small cour"
 -------------------
 input chars = 
 we were all in the train together, bound from read"
 predicted chars = 
- the  and the tered, the sof the tere the  of has ind ar tit ond the the has and the the he has coun"
+on that i had not inde that he had father should to see that i shall be the to see the theen of the "
