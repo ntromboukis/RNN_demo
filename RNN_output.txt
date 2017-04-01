@@ -1,15 +1,12 @@
--------------------
-input chars = 
+------------------input chars = 
 ldom heard him mention her under any other name. i"
 predicted chars = 
-t is a see in the state of the state of the state of the stance of the state of the state of the sta"
--------------------
-input chars = 
-ntlemans chambers in the temple. it was a delicate"
+nd he hed, compriced orseme. my yomundi, couphe of con alked ay blo my.  ils, und wh, lyope y uny ur"
+------------------input chars = 
+ the whole of her sex. it was not that he felt any"
 predicted chars = 
- your strong of the prossoust that i had not inde so that i had not inde so that it was a small cour"
--------------------
-input chars = 
-we were all in the train together, bound from read"
+ wancism. ham tha lw. he d gavelles you hy haspercotch im. i whath how want of tof tha d y inclupclo"
+------------------input chars = 
+s, and that one particularly, were abhorrent to hi"
 predicted chars = 
-on that i had not inde that he had father should to see that i shall be the to see the theen of the "
+sbee , and ghy. wallut, my ullferiy fat yourd mono dlebyound t. theumed, ay yon moy urawe auk, ist e"
