@@ -65,4 +65,4 @@ Instead of a local GPU, you could use Amazon Web Services to launch an EC2 GPU i
 #### Step 6: Generate text using a fully trained RNN model and a variety of input sequences
 | Criteria       		|     Meets Specifications	        			            | 
 |:---------------------:|:---------------------------------------------------------:| 
-| Generate text using a trained RNN classifier.   | The submission presents examples of generated text from a trained RNN module. |
+| Generate text using a trained RNN classifier.   | The submission presents examples of generated text from a trained RNN module.  The majority of this generated text should consist of real english words. |
