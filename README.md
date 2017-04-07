@@ -20,17 +20,13 @@ Instead of a local GPU, you could use Amazon Web Services to launch an EC2 GPU i
 
 | Criteria       		|     Meets Specifications	        			            | 
 |:---------------------:|:---------------------------------------------------------:| 
-| Submission Files      | The submission includes all required files.            RNN_project_student_version.ipynb
-           All code must be written ONLY in the TODO sections and no
-           previous code should be modified.		|
+| Submission Files      | The submission includes all required file RNN_project_student_version.ipynb  All code must be written ONLY in the TODO sections and no previous code should be modified.		|
 
 #### Documentation
 
 | Criteria       		|     Meets Specifications	        			            | 
 |:---------------------:|:---------------------------------------------------------:| 
-| Comments         		| The submission includes comments that describe the functionality of the code.  Every line of code is preceded by a meaningful comment.        1. describing input parameters to Keras module functions.
-         2. function calls
-         3. explaning thought process in common language	|
+| Comments         		| The submission includes comments that describe the functionality of the code.  Every line of code is preceded by a meaningful comment.  1. describing input parameters to Keras module functions.  2. function calls  3. explaning thought process in common language	|
 
 #### Step 1:  Implement a function to window time series
 | Criteria       		|     Meets Specifications	        			            | 
